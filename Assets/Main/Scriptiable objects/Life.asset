@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4743649fb9e5ae4abd24723ed785b38, type: 3}
+  m_Name: Life
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 9077061969697507421, guid: 728d89ef0988c384fb69b1a55626c12b, type: 3}
+  sprite: {fileID: 21300000, guid: 59d60717e105d9f44be80ee664318ee0, type: 3}

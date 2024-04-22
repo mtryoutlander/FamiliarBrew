@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3df79743b2033541ba98afbe7368096, type: 3}
+  m_Name: Sulfer TO Fire
+  m_EditorClassIdentifier: 
+  orginal: {fileID: 11400000, guid: e2d636931a2f2e641a086eb477880534, type: 2}
+  ground: {fileID: 11400000, guid: cf7a844a4da18e2499e9696f5422f0d4, type: 2}
+  grindProgressMax: 3
